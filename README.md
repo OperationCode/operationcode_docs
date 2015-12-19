@@ -2,8 +2,7 @@
 
 Operation Code is on a mission to help every military, veteran and military
 family member get coding and contribute to improving the world through open source software.
-With the hope of running the company out in the open with the help of our community, we will
-open up board discussions for input.
+As an open-source company, we will open up board discussions for input from our community.
 
 ### Process
 
