@@ -10,7 +10,7 @@ Mark Kerr conducted a roll call. The following persons were present: Pete Runyon
 ## III. Approval of minutes from last meeting
 N/A
 
-## IV.Open issues
+## IV. Open issues
 a) Nomination of Board Chair
 Discussion: Runyon proposed self-nominations for Chair be proposed first in order to determine who is most interested in the position. Gómez stated she was happy to serve as vice-chair due to other commitments and thought Chair position should be held by a veteran. Kerr stated he was willing and happy to take the position. 6 votes in favor of Kerr as Chair including proxy, motion carried. Kerr accepted position of Chair.
 
@@ -26,6 +26,4 @@ No new business.
 Board discussed coordination of routine administrative issues: Kerr added to Google Docs; Runyon to send information to CPA; Molina to email board re: interest in committee assignments.
 
 ## VI. Adjournment
-David Molina adjourned the meeting at 1555.
-Minutes submitted by: Molina/Kerr
-Minutes approved by: Runyon
+David Molina adjourned the meeting at 1555. Minutes submitted by: Molina/Kerr. Minutes approved by: Runyon
