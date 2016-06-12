@@ -11,7 +11,7 @@ Operation Code's purpose is to help our nation's finest and their families learn
 ### History
 In 2012, ex-Army Captain David Molina applied to a coding bootcamp to learn how to build web applications using modern web technologies, and again in 2014 and couldn't use his New GI Bill. In 2014, Dave launched Operation Code as an open source project and soon began the Software Mentor Protégé Program connecting volunteer software engineers with transitioning military, guard & reserve soldiers, veterans and their families learn to code, all using a simple spreadsheet and a phone. This quickly expanded to an online Peer-to-Peer software mentorship program, and strategic partnerships with industry IT leaders to offer conference scholarships to the Operation Code military/veterans community. The organization was formed as an Oregon nonprofit on June 11, 2015 and received it's tax-exemption on May 4, 2016. Full history available [here](https://operationcode.org/history).
 
-### Core Values:
+### Core Values
 - Agile. We are expeditious in everything we do and innovative in all our approaches. We will bring new technology and new ideas to provide the best results for veterans.
 
 - Service. We exist to meet the needs of veterans. We will humbly remember that their service was of the highest order and that Operation Code works for them.
@@ -31,17 +31,17 @@ Specific board duties, include, but not limited to:
 
 As a director, you'll participate in periodic board meetings, attend the annual board meeting, serve on any number of committees, including, executive, nominating, finance and development committees, all designed to support our operational efforts.
 
-As a director, you're expected to give of your personal resources or monies, or acquire the resources or monies to ensure Operation Code is firing on all cylinders at all times. When donating online, donors give using Stripe, receive an automatic donor letter, and our OpCodeBot relays the successful donation in the #general Slack channel with, "Someone awesome has just donated to Operation Code!"
+As a director, you're expected to get monies and resources and/or give of your monies and resources to Operation Code to ensure the organization is firing on all cylinders at all times. When donating online, donors give using Stripe, receive an automatic donor letter, and our OpCodeBot relays the successful donation in the #general Slack channel with, "Someone awesome has just donated to Operation Code!"
 
 ### Legal
-As the general counsel to Operation Code, Hunton & Williams, provides pro-bono legal advice to our veterans to help them in their journey to develop technology companies, incorporate their companies, non-competes and intellectual property. Secondly, Hunton provides legal counsel to the organization's board and leadership to ensure regulatory compliance, contract development. Legal, otherwise known internally as the JAG Brigade, provides legal support to Operation Code and our military veterans community.
+As the general counsel to Operation Code, Hunton & Williams, provides pro-bono legal advice to our veterans to help them in their journey to develop technology companies, incorporate their companies, non-competes and intellectual property. Secondly, Hunton provides legal counsel to the organization's board and leadership to ensure regulatory compliance, contract development. Legal, otherwise known as the JAG Brigade, provides legal support to Operation Code and our military veterans community at no-cost.
 
 ### Communication
-We use the private Slack Board channel for all internal board communication. We post taskers on Trello and email for external communication.
+We use the private Slack #board channel for all internal board communication. While we post taskers on Trello and email for external communication, Slack is the main communication tool. It also keeps all directors grounded on the issues our military veterans community learning to code faces.
 
-On Slack, we use the #general channel to communicate general announcements, #patriotbootcamp for alumni to mentor potential applicants, and the #operations channel for staff operations-only. All other channels support our veterans to get coding, from #ruby to #freecodecamp.
+On Slack, we use the #general channel to communicate general announcements, #patriotbootcamp for alumni to mentor potential veteran entrepreneur applicants, and the #operations channel for volunteer staff to coordinate, integrate and synchronize day-to-day efforts. All other channels support our veterans to get coding, from #ruby to #freecodecamp.
 
-During your board tenure, ensure the board chair always has your updated contact information. An @operationcode email account is also available for your use to conduct business on behalf of the organization.
+During your board tenure, ensure the board chair always has your updated contact information. Additionally, an @operationcode email account is also available for your use to conduct business on behalf of the organization.
 
 ### Programs & Services
 At Operation Code, we fulfill our mission through five major programs & services:
