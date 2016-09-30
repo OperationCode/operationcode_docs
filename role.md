@@ -1,0 +1,36 @@
+# Operation Code Board Member Role & Duties
+
+Thank you for your interest in serving on the Operation Code Board of Directors. Operation Code board service can be summarized into 3 equal parts: fiduciary, resource development and strategic.
+
+### Fiduciary
+- No conflict of interest
+- Liability insurance
+- No one is stealing from the organization
+- President/CEO evaluation
+
+Otherwise known as the "Prudent Person Rule", board members ensure the fiscal health of Operation Code, including liability issues, periodic review of finances, and federal & state regulatory compliance.
+
+### Resource development
+- Money
+- Relationships
+- Opening doors
+- Ambassadors to community - communicate role of organization
+
+As a nonprofit, board members ensure resources for present/future through individual, community and corporate contacts, cultivation and garner support.
+
+### Strategic
+- Mission
+- Partnerships/ Mergers/ Dissolutions
+- Expansions
+- Key programming/ soul of organization
+- Capital drive capability
+
+Bottomline, what & where are we going.
+
+### Contributing
+If you find additional resources, please contribute a pull request. If you have questions or comments, please create an issue.
+
+### Useful articles for new board members
+- [Board Roles](https://bloomanew.com/tools/) by [Jay Bloom](https://www.linkedin.com/in/jay-c-bloom-2779a93)
+- [Nonprofit Board Service](http://www.doj.state.or.us/charigroup/pdf/nonprofit.pdf) by [Oregon Department of Justice](http://www.doj.state.or.us/charigroup/tipsbrd.shtml)
+- [BoardSource](https://www.boardsource.org/eweb/) by National Center for Nonprofit Boards
