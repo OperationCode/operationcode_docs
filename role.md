@@ -1,6 +1,6 @@
 # Operation Code Board Member Role & Duties
 
-Thank you for your interest in serving on the Operation Code Board of Directors. Operation Code board service can be summarized into 3 equal parts: fiduciary, resource development and strategic.
+Operation Code board service can be summarized into 3 equal parts: fiduciary, resource development and strategic.
 
 ### Fiduciary
 - No conflict of interest

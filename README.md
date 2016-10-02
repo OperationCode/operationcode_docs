@@ -28,14 +28,14 @@ Specific nonprofit board duties, include, but not limited to:
 
 As a board director, you will participate in quarterly board meetings, attend the annual board meeting (fall), serve on one or more committees, including, executive, nominating, and/or finance, and secure donations and/or resources to ensure the organization is firing on all cylinders at all times.
 
-[Read the full list of Operation Code Board Member Role & Duties](https://github.com/operationcode/board/role.md).
+[Read the full list of Operation Code Board Member Role & Duties](https://github.com/OperationCode/board/blob/master/role.md).
 
 ### Communication
 In the spirit of open source and transparency, seamless communication and team coordination we use a variety of tools to help us ship faster and deliver on our vision. During your board tenure, the following communication tools will ensure your situational awareness.
 
-First, we use [Slack](https://slackhq.com), the real-time messaging app to coordinate, integrate and synchronize efforts for mission execution. Operation Code maneuvers its efforts in a remote, decentralized operating environment and leverages Slack for all organizational and internal communication. As a board director, you will be automatically subscribed to the `general`, `board`, `operations`, `development`, and `social media` channels. In the spirit of transparency and open source, Slack serves as our go-to communication platform, our virtual office and where veterans are learning to code, get help with jobs and network with each other in a supportive, and nurturing learning environment.
+First, we use [Slack](https://slack.com), the real-time messaging app to coordinate, integrate and synchronize efforts for mission execution. Operation Code maneuvers its efforts in a remote, decentralized operating environment and leverages Slack for all organizational and internal communication. As a board director, you will be automatically subscribed to the `general`, `board`, `operations`, `development`, and `social media` channels. In the spirit of transparency and open source, Slack serves as our go-to communication platform, our virtual office and where veterans are learning to code, get help with jobs and network with each other in a supportive, and nurturing learning environment.
 
-Secondly, we use [GitHub](https://github.com), the open source platform to track, monitor and update all operationcode.org actions, and the `operationcode-dot-org` Slack channel for quick communication. If you have an idea that touches our website directly, please create an [issue](https://github.com/operationcode/operationcode/issues) and read the [CONTRIBUTING guide](https://github.com/OperationCode/operationcode/CONTRIBUTING.md).
+Secondly, we use [GitHub](https://github.com), the open source platform to track, monitor and update all operationcode.org actions, and the `operationcode-dot-org` Slack channel for quick communication. If you have an idea that touches our website directly, please create an [issue](https://github.com/operationcode/operationcode/issues) and read the [CONTRIBUTING guide](https://github.com/OperationCode/operationcode/blob/master/CONTRIBUTING.md).
 
 Finally, we use Salesforce, the world's customer relationship management platform for back-office tracking. Any contact we make with a donor, company, etc goes into Salesforce for team follow-up.
 
