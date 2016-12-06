@@ -109,6 +109,49 @@ Past and present Army, Navy, Marines, Air Force, and Coast Guard service members
 ## Background and Context
 Active, transitioning military servicemembers, Guard & Reserve troops and military spouses are not given the fullest opportunity to learn about software development as a post-military career path option. Operation Code’s Strategic Plan is designed to provide information, resources, and mentors to those military service members interested in becoming coders.  The Operation Code Policy Committee and the Board of Directors developed this strategy with the goal that Operation Code would play a central role in the collaboration of the U.S. Government, specifically the Departments of Defense and Veterans Affairs, and coding schools around the world to support transitioning servicemembers' career goals.
 
+
+# Strategic Plan 2017-2021
+
+## Our Vision
+Operation Code is the leading veteran’s service organization establishing connections between the military community and the civilian sector for software development opportunities.
+
+## Our Mission
+Our mission is to empower the military community to learn software development, enter the tech industry, and code the future.
+
+## Our Core Values
+
+### Agile
+We are expeditious in everything we do and innovative in all our approaches. We will bring new technology and new ideas to provide the best results for veterans.
+
+### Service
+We exist to meet the needs of veterans. We will humbly remember that their service was of the highest order and that Operation Code works for them.
+
+### Accountability
+We hold ourselves responsible for obtaining results that fulfill our Mission Statement and work towards our Vision. Donors, volunteers, and veterans can trust that Operation Code will do its best with the resources it is given.
+
+### Integrity
+We act consistently with Operation Code's mission, being honest and transparent in what we do and say, and accept responsibility for our collective and individual actions.
+
+## Who We Serve
+Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans and military spouses are welcome to apply to any of our programs. Through our online mentorship program, we work with 850+ members around the world.
+
+## Our Programs & Services
+*	Code Schools
+*	Scholarship Programs
+*	Software Mentorship
+*	Employer Services
+*	Web Application Development
+
+## Our Goals 2017-2021
+* Develop Operation Code tech infrastructure, to become a central hub for the military software development community.
+* Increase the number of Code Schools approved by the VA to accept Post-9/11 GI Bill and vocational rehab funding.
+* Expand the size and knowledge base of the Operation Code community.
+* Increase awareness of software development opportunities within the military community.
+* Strengthen the relationship between the military community and tech industry.
+
+## Background and Context
+Active, transitioning military servicemembers, Guard & Reserve troops and military spouses are not given the fullest opportunity to learn about software development as a post-military career path option. Operation Code’s Strategic Plan is designed to provide information, resources, and mentors to those military service members interested in becoming coders.  The Operation Code Policy Committee and the Board of Directors developed this strategy with the goal that Operation Code would play a central role in the collaboration of the U.S. Government, specifically the Departments of Defense and Veterans Affairs, and coding schools around the world to support transitioning servicemembers' career goals.
+
 The 2017-2021 Strategic Plan addresses the improvement of the interface platform through which available information on resources is presented and mentorship takes place.  It also addresses the growth of the Operation Code community, giving annual goals and requirements for the scaling of resources.  While elements of the plan address specific bills, legislation, and elements of the economy, the overall plan is designed to ensure that the Operation Code community is able to grow with market demand.
 
 Operation Code’s core programs and services are:
@@ -123,16 +166,14 @@ Operation Code’s core programs and services are:
 
 * *Web Application Development.* Operation Code’s Deploy program is a group of military veterans passionate about continuing to serve through quality web craftsmanship.  As a distributed team of full-stack web developers building complex web applications for the world wide web the Deploy team leverages the internet, open source software and modern tools in order to develop web applications that will help employ veterans, drive earned revenue to the nonprofit, and build organizational capacity.
 
-## Our Goals: 2017 – 2021
+## Our Goals
 
 ### Goal 1: Develop Operation Code tech infrastructure, to become a central hub for the military software development community.
 
-Operation Code currently uses several platforms to pass information among its members. Most routinely, Slack is used as the central hub of information with Google Drive used as a repository for file sharing.  There is an opportunity for the members of Operation Code to turn the organization’s website into a platform for operations.  The OperationCode.org website was created through open source sharing.  
+Operation Code currently uses several platforms to pass information among its members. Most routinely, Slack is used as the central hub of information with Google Drive used as a repository for file sharing.  There is an opportunity for the members of Operation Code to turn the organization’s website into a more cohesive platform for operations, as the OperationCode.org website was created through open source sharing.  
 
 Strategies:
 * Use the OperationCode.org website as a symbol of the capabilities of a team of veteran coders.  Use the knowledge and skills of the members to design, build, test, and execute an open source website that can be used as the central processing point for all Operation Code activities.
-* Create a member log in section of the website to allow for easier file sharing and communication.
-* Create a user interface that allows for the uploading of biographical data and project information.
 
 ### Goal 2: Increase the number of Code Schools approved by the VA to accept Post-9/11 GI Bill and vocational rehab funding.
 
