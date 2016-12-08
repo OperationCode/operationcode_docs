@@ -8,16 +8,16 @@ Our mission is to empower the military community to learn software development, 
 
 ## Our Core Values
 
-* *Transparency* - We hold ourselves accountable for obtaining results that fulfill our Mission Statement and work towards our Vision. By being transparent in everything Operation Code does, from our open source code base to our financial operations, donors, volunteers, and veterans can trust that we will do our best with the resources we're given.
+* *Integrity* -  We hold ourselves accountable for obtaining results that fulfill our Mission Statement and work towards our Vision. As a nonprofit, we are responsible for what we do, or fail to do.  We act consistently with Operation Code's mission, being honest in what we do and say, and accept responsibility for our collective and individual actions. 
 
-* *Integrity* - As a nonprofit, we are responsible for what we do, or fail to do.  We act consistently with Operation Code's mission, being honest and transparent in what we do and say, and accept responsibility for our collective and individual actions. 
+* *Transparency* - By being transparent in everything Operation Code does, from our open source code base to our financial operations, our community can trust that we will do our best with the resources we're given.
 
-* *Agility* - We are expeditious in everything we do and innovative in all our approaches. We will bring new technology and new ideas to provide the best results for veterans.
+* *Agility* - We run fast and we run lean. We always look for a better, more effective, and more efficient way to run our operations. We will bring new technology and new ideas to provide the best results for our community.
 
 * *Service* - We exist to meet the needs of the military community. We will humbly remember that their service was of the highest order and that Operation Code works for them. When it comes to the welfare and well-being of our community, the buck stops here.
 
 ## Who We Serve
-Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans and military spouses are welcome to apply to any of our programs. Through our online mentorship program, we work with 850+ members around the world.
+Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans and military spouses are welcome to apply to any of our programs. Through our online community, we work with 900+ members around the world.
 
 ## Our Programs & Services
 *	Code Schools
