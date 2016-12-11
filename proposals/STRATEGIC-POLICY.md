@@ -14,13 +14,13 @@ Our mission is to empower the military community to learn software development, 
 
 * *Agility.* We run fast and we run lean. When our operating environment changes, and new challenges emerge, we're ready to respond. We communicate as early as we can in our processes, 
 
-* *Curiosity.* We always look for a better, more effective, and more efficient way to run our operations. We bring new technology and new ideas to provide the best results for our community.
+* *Curiosity.* Innovation is central to our mindset. We always look for a better, more effective, and more efficient way to run our operations. We bring new technology and new ideas to provide the best results for our community.
 
 * *Responsibility.* We exist to meet the needs of the military community. We will humbly remember that their service was of the highest order and that Operation Code works for them. When it comes to the welfare and well-being of our community, the buck stops here.
 
-* *Clarity.* In the words of the US Army Signal Corps, we get the message through. We ensure that we are clear and concise in our communication.
+* *Clarity.* In the words of the US Army Signal Corps, we get the message through. We ensure that we are clear and concise in how we communicate, in support of our operations. We are considerate of the sender and the receiver, and communicate in the manner that best suits the needs of the mission and the vision.
 
-* *Community.* We help each other and look out for each other. 
+* *Community.* We help each other and look out for each other. We listen to our community and our people to ensure we are working towards the mission and the vision.
 
 ## Who We Serve
 Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans and military spouses are welcome to apply to any of our programs. Through our online community, we work with 900+ members around the world.
