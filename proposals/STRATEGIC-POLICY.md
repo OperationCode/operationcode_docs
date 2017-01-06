@@ -8,32 +8,32 @@ Our mission is to empower the military community to learn software development, 
 
 ## Our Core Values
 
-* *Integrity.* We hold ourselves accountable for obtaining results that fulfill our Mission Statement and work towards our Vision. As a nonprofit, we are responsible for what we do, or fail to do.  We act consistently with Operation Code's mission, being honest in what we do and say, and accept responsibility for our collective and individual actions. 
+* *Integrity.* We hold ourselves accountable for obtaining results that fulfill our Mission and work towards our Vision. As leaders, we are responsible for what we do, or fail to do.  We act consistently with Operation Code's mission, being honest in what we do and say, and accept responsibility for our collective and individual actions.
 
 * *Transparency.* By being transparent in everything Operation Code does, from our open source code base to our financial operations, our community can trust that we will do our best with the resources we're given.
 
-* *Agility.* We run fast and we run lean. When our operating environment changes, and new challenges emerge, we're ready to respond. We communicate as early as we can in our processes, 
+* *Agility.* We run fast and we run lean. When our operating environment changes, and new challenges emerge, we're ready to respond. We communicate as early and as often as possible, and default to overcommunication in all of our interactions. We always look for a better, more effective, and more efficient way to run our operations. 
 
-* *Curiosity.* Innovation is central to our mindset. We always look for a better, more effective, and more efficient way to run our operations. We bring new technology and new ideas to provide the best results for our community.
+* *Curiosity.* Innovation is central to our mindset. We maintain an attitude of continuous improvement, and we constantly look for new and better ways to serve our community - we owe them nothing less.
 
 * *Responsibility.* We exist to meet the needs of the military community. We will humbly remember that their service was of the highest order and that Operation Code works for them. When it comes to the welfare and well-being of our community, the buck stops here.
 
 * *Clarity.* In the words of the US Army Signal Corps, we get the message through. We ensure that we are clear and concise in how we communicate, in support of our operations. We are considerate of the sender and the receiver, and communicate in the manner that best suits the needs of the mission and the vision.
 
-* *Community.* We help each other and look out for each other. We listen to our community and our people to ensure we are working towards the mission and the vision.
+* *Community.* We look out for the people to our left and right, and always keep a hand free to help. We listen to our community and our people to ensure we are working towards the mission and the vision.
 
 ## Who We Serve
-Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans and military spouses are welcome to apply to any of our programs. Through our online community, we work with 900+ members around the world.
+Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans and military spouses are welcome to apply to any of our programs. Through our online community, we work with 1000+ members around the world.
 
 ## Our Goals 2017-2021
-* Develop Operation Code tech infrastructure, to become a central hub for the military software development community
+* Develop our tech infrastructure, to become a central hub of interaction for the military software development community.
 * Increase the number of Code Schools approved by the VA to accept Post-9/11 GI Bill and vocational rehab funding.
 * Expand the size and knowledge base of the Operation Code community.
 * Increase awareness of software development opportunities within the military community.
 * Strengthen the relationship between the military community and tech industry.
 
 ## Background and Context
-Active, transitioning military servicemembers’, Guard & Reserve troops and military spouses are not given the fullest opportunity to learn about software development as a post-military career path option. Operation Code’s Strategic Plan is designed to provide information, resources, and mentors to those military service members interested in becoming coders.  The Operation Code Policy Committee and the Board of Directors developed this strategy with the goal that Operation Code would play a central role in the collaboration of the U.S. Government, specifically the Departments of Defense and Veterans Affairs, and coding schools around the world to support transitioning servicemembers’ career goals.
+Active, transitioning military servicemembers’, Guard & Reserve troops and military spouses are not given the fullest opportunity to learn about software development as a post-military career path option. Operation Code’s Strategic Plan is designed to provide information, resources, and mentors to those military service members interested in becoming coders. The Operation Code Policy Committee and the Board of Directors developed this strategy with the goal that Operation Code would play a central role in the collaboration of the U.S. Government, specifically the Departments of Defense and Veterans Affairs, and coding schools around the world to support transitioning servicemembers’ career goals.
 
 The 2017-2021 Strategic Plan addresses the improvement of the interface platform through which available information on resources is presented and mentorship takes place.  It also addresses the growth of the Operation Code community, giving annual goals and requirements for the scaling of resources.  While elements of the plan address specific bills, legislation, and elements of the economy, the overall plan is designed to ensure that the Operation Code community is able to grow with market demand.
 
@@ -52,7 +52,7 @@ Operation Code’s core programs and services are:
 
 ## Our Goals
 
-### Goal 1: Develop Operation Code tech infrastructure, to become a central hub for the military software development community.
+### Goal 1: Develop our tech infrastructure, to become a central hub of interaction for the military software development community.
 
 Operation Code currently uses several platforms to pass information among its members. Most routinely, Slack is used as the central hub of information with Google Drive used as a repository for file sharing.  There is an opportunity for the members of Operation Code to turn the organization’s website into a more cohesive platform for operations, as the OperationCode.org website was created through open source sharing.  
 
