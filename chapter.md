@@ -9,7 +9,6 @@ It is assumed that new chapter members have little or no experience with softwar
 * Host events, including trainings, talks, hack nights, etc.
 * Build partnerships in the local community.
 * Raise funds and in-kind donations in support of the mission.
-* Enforce the code of conduct
 * Build and integrate the infrastructure necessary to sustain the chapter.
 * Reach out to potential new members, recieving and integrating them to the team.
 * Advocate for and promote the organization in the local community.
