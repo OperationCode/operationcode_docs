@@ -7,7 +7,7 @@ An Operation Code *Chapter Leader* organizes meetups and events at the local lev
 
 ### Who is a Chapter Leader?
 
-* Represents the Operation Code values.
+* Represents the Operation Code [values.](https://github.com/OperationCode/board/blob/master/proposals/STRATEGIC-POLICY.md)
 * Dedicated, reliable and has consistently displayed participation in the community.
 * Understands the community dynamics and encourages members to have a voice. Empowers people.
 * Organized, and able to stay on top of their multiple responsibilities, such as managing events and recruiting new members.
