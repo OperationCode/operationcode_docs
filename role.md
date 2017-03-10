@@ -6,7 +6,7 @@ Operation Code board service can be summarized into 3 equal parts: fiduciary, re
 - No conflict of interest
 - Liability insurance
 - No one is stealing from the organization
-- President/CEO evaluation
+- President/Executive Director evaluation
 
 Otherwise known as the "Prudent Person Rule", board members ensure the fiscal health of Operation Code, including liability issues, periodic review of finances, and federal & state regulatory compliance.
 
@@ -28,9 +28,7 @@ As a nonprofit, board members ensure resources for present/future through indivi
 Bottomline, what & where are we going.
 
 ### Contributing
-If you find additional resources, please contribute a pull request. If you have questions or comments, please create an issue.
+If you would like to add more, please contribute a pull request. If you have questions or comments, please create an issue.
 
 ### Useful articles for new board members
-- [Board Roles](https://bloomanew.com/tools/) by [Jay Bloom](https://www.linkedin.com/in/jay-c-bloom-2779a93)
-- [Nonprofit Board Service](http://www.doj.state.or.us/charigroup/pdf/nonprofit.pdf) by [Oregon Department of Justice](http://www.doj.state.or.us/charigroup/tipsbrd.shtml)
-- [BoardSource](https://www.boardsource.org/eweb/) by National Center for Nonprofit Boards
+[Role & Duties](https://github.com/OperationCode/board/blob/master/role.md).
