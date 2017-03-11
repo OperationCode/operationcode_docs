@@ -22,7 +22,7 @@ As a board director,
 
 - You'll serve as a sounding board, listening, participating and engaging our members during our bi-weekly townhalls. These conference calls are unique, informative and in your face, because you'll hear directly from those we're serving, what their challenges are as well as their programming pursuits, as well as the community team that manages this growth. It's intense and insane at the same time. We don't expect you to be on every townhall, but it would be inspiring to honor us with your presence on these calls.
 
-- You'll live and breath the challenges and aspirations of our members, coming up with solutions to resolve the issues they face. As a startup nonprofit, you'll work directly with the front-lines, from operations to community, to ensure you have the ammunition to fire on all cylinders and get us to the finish line. We're all here to get stuff done. And, we'll hold each other to it. 
+- You'll live and breath the challenges and aspirations of our members, coming up with solutions to resolve the issues they face. As a startup nonprofit, you'll work directly with the front-lines, from operations to community, to ensure you have the ammunition to fire on all cylinders and get us to the finish line. We're all here to get stuff done. And, we'll hold each other to it.
 
 ### Join us
 If you're interested in joining the board, please get in touch with our Founder & Executive Director, David Molina at: david@operationcode.org. If you know of someone who would be a good addition to the board, please share this with them.
@@ -33,5 +33,8 @@ Lastly, we would greatly appreciate you passing this along to your professional 
 All pull requests welcome.
 
 ### Additional links for aspiring board directors
-[Role & Duties](https://github.com/OperationCode/board/blob/master/role.md).
 [Welcome Note](https://github.com/OperationCode/board/blob/master/README.md).
+[Role & Duties](https://github.com/OperationCode/board/blob/master/role.md).
+[A Guide to Nonprofit Board Service in Oregon](http://www.doj.state.or.us/charigroup/pdf/nonprofit.pdf).
+[Board Member Self-Assessment](http://nonprofitoregon.org/sites/default/files/uploads/file/Board%20Assessment.pdf)
+[Board Toolkit](http://nonprofitoregon.org/oregon_involved/board_toolkit)

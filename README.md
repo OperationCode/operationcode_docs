@@ -57,3 +57,9 @@ At Operation Code, we fulfill our mission through five major programs & services
 As the JAG Brigade to Operation Code, Hunton & Williams, provides pro-bono legal advice to our members to help them in their journey to develop technology companies, incorporate their companies, draft non-competes and advise on intellectual property. Additionally, we're fortunate to have Hunton & Williams provide strategic counsel to leadership in reviewing legal contracts, and ensuring state & federal regulatory compliance.
 
 Welcome aboard, and we look forward to your contributions while serving on the board of directors of Operation Code.
+
+### Additional links for new board directors
+[Role & Duties](https://github.com/OperationCode/board/blob/master/role.md).
+[A Guide to Nonprofit Board Service in Oregon](http://www.doj.state.or.us/charigroup/pdf/nonprofit.pdf).
+[Board Member Self-Assessment](http://nonprofitoregon.org/sites/default/files/uploads/file/Board%20Assessment.pdf)
+[Board Toolkit](http://nonprofitoregon.org/oregon_involved/board_toolkit)
