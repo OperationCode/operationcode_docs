@@ -15,7 +15,7 @@ An Operation Code *Chapter Leader* organizes meetups and events at the local lev
 * Able to explain basic programming concepts to chapter members if necessary, as new chapter members may range from being senior software developers, to having little or no experience with software development. 
 
 ### Responsibilities
-* Enforce the [Code of Conduct.](https://github.com/OperationCode/mentorship/blob/master/CODE-OF-CONDUCT.md)
+* Enforce the [Code of Conduct.](https://github.com/OperationCode/community/blob/master/code_of_conduct.md)
 * Host events, including trainings, talks, hack nights, etc.
 * Build partnerships in the local community.
 * Raise funds and in-kind donations in [support of the mission.](https://github.com/OperationCode/board/blob/master/proposals/STRATEGIC-POLICY.md)
