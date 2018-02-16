@@ -14,10 +14,6 @@ If you have questions about anything at Operation Code, here's who to contact!
 
 @Jenn / jennifer@operationcode.org
 
-### Fundraising
-
-@stacy_chin / stacy@operationcode.org
-
 ### People Operations 
 
 @Kelly / kelly@operationcode.org
