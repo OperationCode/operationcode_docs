@@ -10,7 +10,7 @@ If you have questions about anything at Operation Code, here's who to contact!
 
 @Ashley / ashley@operationcode.org
 
-### Social Media / Marketing / Everything Else
+### Social Media / Marketing / Business Development / Strategic Partnership / Everything Else
 
 @Jenn / jennifer@operationcode.org
 
