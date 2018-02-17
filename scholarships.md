@@ -10,4 +10,8 @@ Scholarships will be posted as they are received to General and Scholarships cha
 
 Recipients will be chosen on a merit bases by the mentors involved in the Operation Code Mentorship Program. 
 
+
+
+
+
 For questions about scholarships please reach out to Ashley at @Ashley (in Slack) or ashley@operationcode.org
