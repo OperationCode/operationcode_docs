@@ -9,7 +9,7 @@ There is plenty of overlap; don't fret about it too much.
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #job_board | Post job opportunities, discuss job opportunity specifics |
 | #questions | Ask us anything (probably about tech, but maybe not? I don't know!) |
-| #newbies | Self identify as a beginner? To shy to ask questions or chat elsewhere? Do so here! |
+| #newbies | Self identify as a beginner? Too shy to ask questions or chat elsewhere? Do so here! |
 | #townhall | Chat about the weekly town hall meeting || #dotnet | Talk about .net development |
 | #javascript | Talk about Javascript. Hardcore javascript or not |
 | #java | Java and JVM talk |
