@@ -1,20 +1,20 @@
 Call To Order
-1606 Meeting called to order
+- 1606 Meeting called to order
 
 
 Roll Call
 
 Approval of Minutes
-winter/spring/summer/fall, fall meeting w/ gala
-3 year to 2 year terms
+- winter/spring/summer/fall, fall meeting w/ gala
+- 3 year to 2 year terms
 
 Approval of Agenda
 1 - Ratify Mission and Vision (David Molina)
-https://docs.google.com/document/d/1BZI2aMzg9symAlDdIuA9lUFvxu1A9HpxAHlXYRAsWcw/edit#heading=h.do99ei7nmuvb
+- https://docs.google.com/document/d/1BZI2aMzg9symAlDdIuA9lUFvxu1A9HpxAHlXYRAsWcw/edit#heading=h.do99ei7nmuvb
 
 
 Brief Current State of Operations (Conrad Hollomon)
-https://docs.google.com/document/d/1BZI2aMzg9symAlDdIuA9lUFvxu1A9HpxAHlXYRAsWcw/edit#heading=h.do99ei7nmuvb
+- https://docs.google.com/document/d/1BZI2aMzg9symAlDdIuA9lUFvxu1A9HpxAHlXYRAsWcw/edit#heading=h.do99ei7nmuvb
 4- Ratify Goals (Conrad Hollomon)
 https://docs.google.com/document/d/1BZI2aMzg9symAlDdIuA9lUFvxu1A9HpxAHlXYRAsWcw/edit#heading=h.do99ei7nmuvb
 5 - Discuss Committee Structure
