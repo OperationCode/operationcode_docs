@@ -21,9 +21,11 @@ There is plenty of overlap; don't fret about it too much.
 | #crypto_trading_chat | Talk about crypto trading (but not the blockchain technology maybe?) |
 | #git | git questions can go here |
 | #vim | vim? Sure! |
+| #angular | Talk about Angular, AngularJs and all that components stuff |
+| #reactjs | Cause #angular is a thing |
 | #devops | Ops up your dev with ci servers and dockers and all that stuff |
 | #object-oriented-basic | You can ask core OO questions here |
 | #functional-basic | Or functional programming questions here |
 | #language-wars | Or argue about which is better here |
 | #rants | Or rant about anything else here |
-|#active_duty | Active duty / Reserve developers who want to use skills to benefit their military organization |
+| #active_duty | Active duty / Reserve developers who want to use skills to benefit their military organization |
