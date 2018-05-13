@@ -29,3 +29,4 @@ There is plenty of overlap; don't fret about it too much.
 | #language-wars | Or argue about which is better here |
 | #rants | Or rant about anything else here |
 | #active_duty | Active duty / Reserve developers who want to use skills to benefit their military organization |
+| #townhall | Weekly townhalls happen at 9PM Eastern Time every Thursday! Come join us |
