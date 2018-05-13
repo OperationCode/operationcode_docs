@@ -1,11 +1,13 @@
 # Operation Code Board Director Job Description
 
-At Operation Code, we're on a mission to get active military, citizen-soldiers, veterans and military spouses coding and building software to change the world and fill the nation's technical talent shortage with our nation's finest. Our members are based both CONUS and OCONUS with over 1,400 members in our Slack community (and, growing!), over 40 software engineer mentors, and an all-volunteer staff scaling growth and managing day-to-day operations all in a remote and decentralized operating environment. The internet.
+At Operation Code, we're on a mission to get active military, citizen-soldiers, veterans and military spouses coding and building software to change the world and fill the nation's technical talent shortage with our nation's finest. Our members are based both CONUS and OCONUS with over 1,800 members in our Slack community (and, growing!), over 40 software engineering mentors, and an all-volunteer staff scaling growth and managing day-to-day operations all in a remote and decentralized operating environment - the Internet.
 
 As a board member, you'll have the honor and privilege of having a seat at the table in building an veterans service organization unlike any other anywhere, focused on introducing our nation's finest to web technologies to code the future. Still interested? Read on my friend.
 
-### Duties & Responsibilities
+## Duties & Responsibilities
+
 As a board director,
+
 - You'll lead with velocity and due diligence on board committees, and take on additional special assignments based on your skills & abilities. It's not a full-time job (we all have one), but this can be rough if you've never served on a charity nonprofit working board. That said, we encourage newbies as we prepare you for the challenge of your life in growing, ahem, a startup nonprofit all in a challenging, fast-paced environment.
 
 - You'll serve as an ambassador and have meetings with senior government officials, including Members of Congress (including, permanent staff), and senior private-sector leaders to explore new opportunities and strategic partnerships for the organization to capitalize and leverage. Our team has already testified before a Congressional briefing and participated in an House Veterans' Affairs Subcommittee on modernizing post-9/11 GI Bill benefits to meet the needs of today's veterans. The bar is being set ever higher and you'll help be responsible for removing barriers so we can go higher.
@@ -24,17 +26,48 @@ As a board director,
 
 - You'll live and breath the challenges and aspirations of our members, coming up with solutions to resolve the issues they face. As a startup nonprofit, you'll work directly with the front-lines, from operations to community, to ensure you have the ammunition to fire on all cylinders and get us to the finish line. We're all here to get stuff done. And, we'll hold each other to it.
 
-### Join us
+## Board Service
+
+Operation Code board service can be summarized into 3 equal parts: fiduciary, resource development and strategic.
+
+### Fiduciary
+- No conflict of interest
+- Liability insurance
+- No one is stealing from the organization
+- President/Executive Director evaluation
+
+Otherwise known as the "Prudent Person Rule", board members ensure the fiscal health of Operation Code, including liability issues, periodic review of finances, and federal & state regulatory compliance.
+
+### Resource development
+- Money
+- Relationships
+- Opening doors
+- Ambassadors to community - communicate role of organization
+
+As a nonprofit, board members ensure resources for present/future through individual, community and corporate contacts, cultivation and garner support.
+
+### Strategic
+- Mission
+- Partnerships/ Mergers/ Dissolutions
+- Expansions
+- Key programming/ soul of organization
+- Capital drive capability
+
+Bottomline, what & where are we going.
+
+## Join us
 If you're interested in joining the board, please get in touch with our Founder & Executive Director, David Molina at: david@operationcode.org. If you know of someone who would be a good addition to the board, please share this with them.
 
 Lastly, we would greatly appreciate you passing this along to your professional network as we'd love to also consider non-veteran/military candidates beyond the current board's network. Thank you so much for your help in spreading the good word and growing professionally.
 
 ### Contributing
-All pull requests welcome.
+If you would like to add more, please contribute a pull request. If you have questions or comments, please create an issue.
+
+### Useful articles for new board members
+* [Role & Duties](https://github.com/OperationCode/board/blob/master/role.md)
 
 ### Additional links for aspiring board directors
-[Welcome Note](https://github.com/OperationCode/board/blob/master/README.md).
-[Role & Duties](https://github.com/OperationCode/board/blob/master/role.md).
-[A Guide to Nonprofit Board Service in Oregon](http://www.doj.state.or.us/charigroup/pdf/nonprofit.pdf).
-[Board Member Self-Assessment](http://nonprofitoregon.org/sites/default/files/uploads/file/Board%20Assessment.pdf).
-[Board Toolkit](http://nonprofitoregon.org/oregon_involved/board_toolkit).
+* [Welcome Note](https://github.com/OperationCode/board/blob/master/README.md)
+* [A Guide to Nonprofit Board Service in Oregon](http://www.doj.state.or.us/charigroup/pdf/nonprofit.pdf)
+* [Board Member Self-Assessment](http://nonprofitoregon.org/sites/default/files/uploads/file/Board%20Assessment.pdf)
+* [Board Toolkit](http://nonprofitoregon.org/oregon_involved/board_toolkit)
