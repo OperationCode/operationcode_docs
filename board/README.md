@@ -53,8 +53,6 @@ At Operation Code, we fulfill our mission through five major programs & services
 
 - Code School Technical Assistance. When we launched in 2014, zero (0) code schools accepted the New GI Bill. Today, over half-a-dozens accept the New GI Bill, but it's not enough. Online programs like Treehouse, One Month Rails, and Udacity are unable to accept GI Bill or related military payment. We do advocacy on Capitol Hill to educate Members of Congress and their staff of the undue bureaucratic processes that bottleneck code schools from become eligible to accept the New GI Bill, all while helping code school CEO's navigate their states accreditation hurdles. In 2014, we launched a vetted code school list to help our members find a code school near them. [Learn more](https://operationcode.org/code_schools).
 
-### Legal
-As the JAG Brigade to Operation Code, Hunton & Williams, provides pro-bono legal advice to our members to help them in their journey to develop technology companies, incorporate their companies, draft non-competes and advise on intellectual property. Additionally, we're fortunate to have Hunton & Williams provide strategic counsel to leadership in reviewing legal contracts, and ensuring state & federal regulatory compliance.
 
 Welcome aboard, and we look forward to your contributions while serving on the board of directors of Operation Code.
 
