@@ -36,11 +36,11 @@ To help colleagues understand the kinds of behaviors that run counter to the cul
 
 ## Our responsibilities
 
-Our staff is responsible for clarifying the standards of acceptable
+[Our staff][https://github.com/OperationCode/operationcode_docs/blob/master/community/points_of_contact.md] is responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior. For discussions on this, please join the #community-feedback channel on Slack, or email us at <community@operationcode.org>.
 
-Our staff has the right and responsibility to remove, edit, or
+[Our staff][https://github.com/OperationCode/operationcode_docs/blob/master/community/points_of_contact.md] has the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
@@ -53,7 +53,7 @@ when an individual is representing the project or its community. Examples of
 representing a project or community include using an official project e-mail
 address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of Operation Code may be
-further defined and clarified by staff.
+further defined and clarified by [staff][https://github.com/OperationCode/operationcode_docs/blob/master/community/points_of_contact.md].
 
 ## Enforcement
 
@@ -66,7 +66,7 @@ Further details of specific enforcement policies may be posted separately.
 
 Volunteers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
-members of the staff.
+members of the [staff][https://github.com/OperationCode/operationcode_docs/blob/master/community/points_of_contact.md].
 
 ## Attribution
 
