@@ -26,7 +26,8 @@ It would be impossible to list everything staff can do to create a more welcomin
 To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we've listed below actions that are counter to our values.  We've also included steps to take if you encounter behavior that runs contrary to this policy.
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
+* Trolling, insulting/derogatory comments, and personal or political attacks.
+> Keep in mind that this is a forum with the goal of first and foremost providing help to people trying to enter the software development industry. While we encourage socializing, *open discussion on any subject is not the goal.* As such consider avoiding potentially controversial subjects like politics or religion. Be aware that you might be asked to stop conversations on these topics.
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
