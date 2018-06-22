@@ -1,14 +1,12 @@
-# Scholarships
+## Procedure for Requesting a Conference Scholarship
 
-## Procedure for Requesting a Scholarship
+### Where can I find conference scholarships?
 
-### Where can I find scholarships?
-
-Scholarships will be posted as they are received to the Slack announcer in #general and #coding-schools. Users will then be asked to fill out a form if they would like to apply for the scholarship.
+Conference scholarships will be posted as they are received to the Slack announcer in #general and #coding-schools. Users will then be asked to fill out a form if they would like to apply for the scholarship.
 
 https://operationcode.org/scholarships
 
-### How are scholarship recipients selected?
+### How are conference scholarship recipients selected?
 
 Recipients will be chosen on a merit basis, by the mentors involved in the Operation Code Mentorship Program. 
 
@@ -24,4 +22,4 @@ Criteria for conference scholarships are the following:
 
 Unfortunately, at this time we are unable to cover travel/lodging. However, our development team is actively pursuing opportunities to fund this. 
 
-For questions about scholarships please reach out to @scholarships-team (in Slack) or staff@operationcode.org.
+For questions about conference scholarships please reach out to @scholarships-team (in Slack) or staff@operationcode.org.
