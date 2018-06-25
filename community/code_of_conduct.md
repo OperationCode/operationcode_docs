@@ -72,6 +72,20 @@ Volunteers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the staff.
 
+In most situations (with the exception of severe behavior, which is explained below), the process of enforcement is as follows:
+
+* Warning - a staff member or moderator will warn someone that their behavior violates our Code of Conduct and ask them to stop the behavior.
+* Temporary Ban - if they continue the behavior after a warning, a staff or moderator will temporarily move the person who is violating the Code of Conduct to a private "timeout" channel separate from other channels, where they will be unable to interact with other channels. The length of this timeout is 24 hours by default, but that can be altered (shorter or longer) at the discretion of Operation Code staff and volunteers.
+* Permanent Ban - if someone continues violating the Code of Conduct after their Temporary Ban is complete (or in the private "timeout" channel during their Temporary Ban) staff or moderators will permanently ban that person by deactivating their Slack account.
+
+In the cases of severe violations of the Code of Conduct (including but not limited to sexual harassment or publicly posting someone's private information) staff and moderators will immediately proceed to a Temporary Ban and consult with other staff on whether an immediate Permanent Ban is appropriate. If a majority of staff feel an immediate Permanent Ban is warranted, the person's Slack account will immediately be deactivated.
+
+This process applies to all Operation Code members, staff, partners, community, and anyone else who interacts with the Operation Code organization.
+
+### Creating Additional Accounts ("Sockpuppeting")
+
+Attempting to get around a temporary or permanent ban by creating a new account in the Operation Code Slack will result in an immediate permanent ban.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
