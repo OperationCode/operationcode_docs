@@ -72,7 +72,7 @@ Volunteers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the staff.
 
-In most situations (with the exception of severe behavior, which is explained below), the process of enforcement is as follows:
+In most situations (with the exception of severe violations of the Code of Conduct, which is explained below), the process of enforcement is as follows:
 
 * Warning - a staff member or moderator will warn someone that their behavior violates our Code of Conduct and ask them to stop the behavior.
 * Temporary Ban - if they continue the behavior after a warning, a staff or moderator will temporarily move the person who is violating the Code of Conduct to a private "timeout" channel separate from other channels, where they will be unable to interact with other channels. The length of this timeout is 24 hours by default, but that can be altered (shorter or longer) at the discretion of Operation Code staff and volunteers.
