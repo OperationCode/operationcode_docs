@@ -8,8 +8,7 @@ There is plenty of overlap; don't fret about it too much.
 | #random | Whatever you crazy kids want. Just no politics or religion or you'll be tsk'ed at |
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #job_board | Post job opportunities, discuss job opportunity specifics |
-| #questions | Ask us anything (probably about tech, but maybe not? I don't know!) |
-| #newbies | Self identify as a beginner? Too shy to ask questions or chat elsewhere? Do so here! |
+| #help | Ask us anything (probably about tech, but maybe not? I don't know!) Yes, even if you're new to all this, so are lots of people. |
 | #townhall | Chat about the weekly town hall meeting || #dotnet | Talk about .net development |
 | #javascript | Talk about Javascript. Hardcore javascript or not |
 | #java | Java and JVM talk |
