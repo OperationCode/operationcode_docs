@@ -29,3 +29,7 @@ There is plenty of overlap; don't fret about it too much.
 | #rants | Or rant about anything else here |
 | #active_duty | Active duty / Reserve developers who want to use skills to benefit their military organization |
 | #townhall | Weekly townhalls happen at 9PM Eastern Time every Thursday! Come join us |
+| #coding-interviews | Get help on algorithims and coding problems for job interviews or fun |
+| #colleges | Selecting a college, major/field of study, courses and electives, career specific programs, funding/financial aid options, tuition assistance/reimbursement programs |
+| #database | All about databases - creating, using, and admin |
+| #salesforce | Learn about SalesForce and SalesForce development |
