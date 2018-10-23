@@ -5,4 +5,4 @@
 * [Black Girls Code](http://www.blackgirlscode.com/)
 * [Rails Girls](http://railsgirls.com/)
 * [Django Girls](https://djangogirls.org/)
-* [SheNomads Job Board](http://www.shenomads.com/job-board.html)
+* [SheNomads Job Board](https://shenomads.wordpress.com/)
