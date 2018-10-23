@@ -25,7 +25,7 @@
   * Request Form - *opens extrernal link in new tab for code schools to request to be on the page*
 * Job Board - *page for various job listing with external link in new tab*
 * Donate - *navigates to external donation page in new tab*
-* Leadership Circle - *I beleive this is no longer in our plans (have to confirm with stakeholder)*
+* Leadership Circle - *I believe this is no longer in our plans (have to confirm with stakeholder)*
 * Login - *takes user to login screen*
   * Sign Up - *takes user to sign up (to be addressed elsewhere), also the wording we use should be consistent across the site* 
 
