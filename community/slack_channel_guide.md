@@ -6,6 +6,7 @@ There is plenty of overlap; don't fret about it too much.
 | --------- |:--------------:|
 | #general | General chatter, introductions, announcements, slackbots, try to keep it relatively clear | 
 | #random | Whatever you crazy kids want. Just no politics or religion or you'll be tsk'ed at |
+| #freebies | A channel full of free stuff, reacting to any message with :freebie: will make it show there |
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #job_board | Post job opportunities, discuss job opportunity specifics |
 | #help | Ask us anything (probably about tech, but maybe not? I don't know!) Yes, even if you're new to all this, so are lots of people. |
