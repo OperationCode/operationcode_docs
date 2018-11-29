@@ -35,6 +35,7 @@ To help colleagues understand the kinds of behaviors that are illegal or run cou
 * Mocking someone's real or perceived accent or first language.
 * Repeatedly interrupting or talking over other people in meetings and discussions.
 * Negative or offensive remarks based on gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, or body size.
+* Purposefully being argumentative or aggressive
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
