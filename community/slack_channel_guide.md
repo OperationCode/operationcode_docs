@@ -20,7 +20,7 @@ There is plenty of overlap; don't fret about it too much.
 | #ruby | All of the Rubies! |
 | #reactjs | Cause #angular is a thing |
 | #web-dev | More broad discussions of web development, as well as html and css |
-| #cyber-security | Hacking and blocking that hackorz. Only channel where talking about how cool Bruce Schneier is is acceptable. |
+| #cyber-security | Hacking and blocking that hackorz. Only channel where talking about how cool Bruce Schneier was is acceptable. |
 | #data-science | All your NumPys and SciPis and Rs |
 | #blockchain | Talk about blockchain technology (but not crypto trading) |
 | #crypto_trading_chat | Talk about crypto trading (but not the blockchain technology maybe?) |
