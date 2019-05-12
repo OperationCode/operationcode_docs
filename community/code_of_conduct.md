@@ -36,6 +36,7 @@ To help colleagues understand the kinds of behaviors that are illegal or run cou
 * Repeatedly interrupting or talking over other people in meetings and discussions.
 * Negative or offensive remarks based on gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, or body size.
 * Purposefully being argumentative or aggressive
+* Advertising of coding schools or personal projects within #general, or in an off-topic context
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
