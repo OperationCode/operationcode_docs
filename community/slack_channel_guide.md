@@ -2,14 +2,14 @@
 
 There is plenty of overlap; don't fret about it too much.
 
-| Channel | Description | 
+| Channel | Description |
 | --------- |:--------------:|
 | #general | General chatter, introductions, announcements, slackbots, try to keep it relatively clear |
 | #random | Whatever you crazy kids want. Just no politics or religion or you'll be tsk'ed at |
 | #freebies | A channel full of free stuff, reacting to any message with :freebie: will make it show there |
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #job_board | Post job opportunities, discuss job opportunity specifics |
-| #compensation | Come talk money and gettin paid | 
+| #compensation | Come talk money and gettin paid |
 | #daily-programmer | Get a daily coding challenge to help yourself learn and grow |
 | #help | Ask us anything (probably about tech, but maybe not? I don't know!) Yes, even if you're new to all this, so are lots of people. |
 | #python | Talk Python |
@@ -31,21 +31,22 @@ There is plenty of overlap; don't fret about it too much.
 | #rants | Rant about anything else here |
 | #active_duty | Active duty / Reserve developers who want to use skills to benefit their military organization |
 | #va-claims | A place to discuss anything to do with Veterans Affairs and related compensation cases |
+| #transitioning | Space to share your experiences (positive and negative) of transitioning out of the military |
 | #coding-interviews | Get help on algorithims and coding problems for job interviews or fun |
 | #colleges | Selecting a college, major/field of study, courses and electives, career specific programs, funding/financial aid options, tuition assistance/reimbursement programs |
 | #database | All about databases - creating, using, and admin |
 | #salesforce | Learn about SalesForce and SalesForce development |
 | #android | All things Android |
-| #linux | sudo apt-get linux chat | 
+| #linux | sudo apt-get linux chat |
 | #basic-algorithms | Learn some programming algorithms and get help if you need it |
-| #computer-science | Talk about the science of computers | 
-| #home-improvement | Get some tips on keeping your place looking as clean as your code | 
-| #oc-projects | Help us with our open-source projects | 
-| #oc-python-projects | Help us with out open-source Python projects | 
-| #raspberrypi | Discuss the RPi computers and all the cool things they can do | 
-| #badjokes | This channel is a huge disappointment to us all, but it is fun | 
-| #milspouses | Resources and discussions centered around the spouses we love | 
-| #mental-health | Get information on mental health | 
-| #cooking | Learn how to feed yourself | 
-| #gaming | Games on games on games on games | 
-| #entrepreneurship | Have a business? Want to have a business? Come talk about that here | 
+| #computer-science | Talk about the science of computers |
+| #home-improvement | Get some tips on keeping your place looking as clean as your code |
+| #oc-projects | Help us with our open-source projects |
+| #oc-python-projects | Help us with out open-source Python projects |
+| #raspberrypi | Discuss the RPi computers and all the cool things they can do |
+| #badjokes | This channel is a huge disappointment to us all, but it is fun |
+| #milspouses | Resources and discussions centered around the spouses we love |
+| #mental-health | Get information on mental health |
+| #cooking | Learn how to feed yourself |
+| #gaming | Games on games on games on games |
+| #entrepreneurship | Have a business? Want to have a business? Come talk about that here |
