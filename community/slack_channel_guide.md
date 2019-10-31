@@ -46,6 +46,7 @@ There is plenty of overlap; don't fret about it too much.
 | #reactjs | Cause #angular is a thing |
 | #ruby | All of the Rubies! |
 | #salesforce | Learn about SalesForce and SalesForce development |
+| #testing | Discussions about testing software (typically automated tests, but not necessarily) |
 | #transitioning | Space to share your experiences (positive and negative) of transitioning out of the military |
 | #va-claims | A place to discuss anything to do with Veterans Affairs and related compensation cases |
 | #vim | vim? Sure! |
