@@ -24,4 +24,4 @@ After a mentorship session is fulfilled, mentees and mentors are free to continu
 
 
 # Additional Information
-Please refer to the [Mentor Guidebook](https://github.com/OperationCode/documents/blob/master/mentorship/GUIDEBOOK.md) for more details on how to best work together and build a successful mentor/mentee relationship.
+Please refer to the [Mentor Guidebook](https://github.com/OperationCode/operationcode_docs/blob/master/mentorship/GUIDEBOOK.md) for more details on how to best work together and build a successful mentor/mentee relationship.
