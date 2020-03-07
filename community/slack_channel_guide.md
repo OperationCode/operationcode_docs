@@ -63,8 +63,6 @@ For specific languages, libraries, or frameworks.
 
 ## Regional/Location-based Channels
 
-| Channel | | |
-| --- | --- | --- |
 | #austin-tx | #kansas_city | #palo-alto |
 | #bmore-md | #kentucky | #philly |
 | #boston | #los-angeles | #phoenix-az |
