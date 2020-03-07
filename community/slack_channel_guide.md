@@ -47,8 +47,19 @@ There is plenty of overlap; don't fret about it too much.
 
 For specific languages, libraries, or frameworks.
 
-| Channel | Description | 
+| Channel | Description |
 | --------- |:--------------:|
+| #javascript | Talk about Javascript. Hardcore javascript or not |
+| #java | Java and JVM talk |
+| #ruby | All of the Rubies! |
+| #angular | "Talk about Angular, AngularJs, and all that components stuff" |
+| #reactJS | Cause #angular is a thing |
+| #python | Python related development |
+| #dotnet | Talk about .net development |
+| #c | C related development |
+| #cpp | C++ related development |
+| #golang | GoLang related development |
+| #language-wars | Or argue about which is better here |
 
 
 ## Regional/Location 
