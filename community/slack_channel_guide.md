@@ -4,6 +4,8 @@
 
 Want to add/change something? Give a PR.
 
+
+
 ## General Channels
 
 | Channel | Description |
@@ -15,29 +17,36 @@ Want to add/change something? Give a PR.
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #coding-interviews | Get help on algorithims and coding problems for job interviews or fun |
 | #colleges | Selecting a college, major/field of study, courses and electives, career specific programs, funding/financial aid options, tuition assistance/reimbursement programs |
-| #crypto_trading_chat | Talk about crypto trading (but not the blockchain technology maybe?) |
+| #compensation | Have questions about your offer? Share them here. |
+| #computer-science | CS specific questions and discussions. |
+| #crypto_traders_chat | Talk about crypto trading (but not the blockchain technology maybe?) |
 | #cyber-security | Discussing Cyber Security problems, best-practices, employment, training opportunities, and other factors. |
+| #daily-programmer | Solving programming challenges daily to flex our programming muscles. |
 | #data-science | All your NumPys and SciPis and Rs |
 | #database | All about databases - creating, using, and admin |
+| #design | Discuss web design and user experience here! |
 | #devops | Ops up your dev with ci servers and dockers and all that stuff |
 | #freebies | A channel full of free stuff, reacting to any message with :freebie: will make it show there |
+| #freelancing | Share info on how to best succeed as a freelance IT professional. |
 | #functional-basic | Or functional programming questions here |
 | #general | General chatter, introductions, announcements, slackbots, try to keep it relatively clear |
 | #git | git questions can go here |
 | #help | Ask us anything (probably about tech, but maybe not? I don't know!) Yes, even if you're new to all this, so are lots of people. |
 | #ios | iOS related development |
 | #job_board | Post job opportunities, discuss job opportunity specifics |
+| #job-hunting | A place for people to let others know members are actively looking for a job. |
+| #linux | Discussing the care and feeding of GNU/Linux based operating systems. |
 | #milspouses | A shared channel with MilSpouse Coders |
 | #mobile-dev | Ask you questions about mobile development here! |
 | #netdev | We discuss anything related to the TCP/IP stack and OSI model layers, Software Defined Networking, Network Functions Virtualization, and everything in between. |
 | #object-oriented-basic | You can ask core OO questions here |
 | #oc-python-projects | Channel is for the rewrite effort for slack bot for new team members. |
+| #parenting | The purpose of this channel is to discuss all things parenting. |
 | #random | Whatever you crazy kids want. Just no politics or religion or you'll be tsk'ed at |
 | #rants | Or rant about anything else here |
 | #raspberrypi | Talk about your Raspberry Pi projects! |
 | #salesforce | Learn about SalesForce and SalesForce development |
 | #townhall | Chat about the weekly town hall meeting |
-| #townhall | Weekly townhalls happen at 9PM Eastern Time every Thursday! Come join us |
 | #va-claims | A place to discuss anything to do with Veterans Affairs and related compensation cases |
 | #vim | vim? Sure! |
 | #web-dev | More broad discussions of web development, as well as html and css |
