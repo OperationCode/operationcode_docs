@@ -4,8 +4,8 @@
 
 ## Table of Contents
 1. [General Channels](#General)
-2. [Development/Language-Specific Channels](#Development/Language-Specific)
-3. [Regional/Location-based](#Regional/Location-based)
+2. [Development/Language-Specific Channels](#Development)
+3. [Regional/Location-based](#Regional)
 
 
 Want to add/change something? Give a PR.
@@ -57,7 +57,7 @@ Want to add/change something? Give a PR.
 
 [Back to Table of Contents](#Table-Of-Contents)
 
-### Development/Language-Specific
+### Development
 
 For specific languages, libraries, or frameworks.
 
@@ -78,7 +78,7 @@ For specific languages, libraries, or frameworks.
 
 [Back to Table of Contents](#Table-Of-Contents)
 
-### Regional/Location-based
+### Regional
 
 | Channels | | |
 | --- | --- | --- |
