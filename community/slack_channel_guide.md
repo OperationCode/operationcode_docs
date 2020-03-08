@@ -2,11 +2,15 @@
 
 *A collaborative, curated channel guide for the Operation Code Slack. This guide isn't all inclusive. Click on `Channels` in your sidebar (the Slack navigation menu on the left), and explore!*
 
+## Table of Contents
+1. [General Channels](#General)
+2. [Development/Language-Specific Channels](#Development/Language-Specific)
+3. [Regional/Location-based](#Regional/Location-based)
+
+
 Want to add/change something? Give a PR.
 
-
-
-## General Channels
+### General
 
 | Channel | Description |
 | -------------- | -------------- |
@@ -51,7 +55,9 @@ Want to add/change something? Give a PR.
 | #vim | vim? Sure! |
 | #web-dev | More broad discussions of web development, as well as html and css |
 
-## Development/Language-Specific Channels
+[Back to Table of Contents](#Table-Of-Contents)
+
+### Development/Language-Specific
 
 For specific languages, libraries, or frameworks.
 
@@ -70,7 +76,9 @@ For specific languages, libraries, or frameworks.
 | #ruby | All of the Rubies! |
 | #language-wars | Or argue about which is better here |
 
-## Regional/Location-based Channels
+[Back to Table of Contents](#Table-Of-Contents)
+
+### Regional/Location-based
 
 | Channels | | |
 | --- | --- | --- |
@@ -90,3 +98,5 @@ For specific languages, libraries, or frameworks.
 | #global-chapter | #ohio | #vegas |
 | #hampton-roads | #opcode-jax |  |
 | #indiana | #orlando |  |
+
+[Back to Table of Contents](#Table-Of-Contents)
