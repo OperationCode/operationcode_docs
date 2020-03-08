@@ -7,7 +7,6 @@
 2. [Development/Language-Specific Channels](#Development)
 3. [Regional/Location-based](#Regional)
 
-
 Want to add/change something? Give a PR.
 
 ### General
@@ -17,6 +16,8 @@ Want to add/change something? Give a PR.
 | #active-duty | Active duty / Reserve developers who want to use skills to benefit their military organization |
 | #android | Android related development |
 | #app-academy-open | Mentorship for App Academy Open |
+| #badjokes | This channel is a huge disappointment to us all, but it is fun |
+| #basic-algorithms | Learn some programming algorithms and get help if you need it |
 | #blockchain | Talk about blockchain technology (but not crypto trading) |
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #coding-interviews | Get help on algorithims and coding problems for job interviews or fun |
