@@ -27,7 +27,6 @@ To help colleagues understand the kinds of behaviors that are illegal or run cou
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks.
-> Keep in mind that this is a forum with the goal of first and foremost providing help to people trying to enter the software development industry. While we encourage socializing, *open discussion on any subject is not the goal.* As such consider avoiding potentially controversial subjects like politics or religion. Be aware that you might be asked to stop conversations on these topics.
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
@@ -40,16 +39,30 @@ To help colleagues understand the kinds of behaviors that are illegal or run cou
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+### Examples of topics outside mission scope
+
+Keep in mind that this is a community with the goal of first and foremost providing help to people trying to enter the software development industry. While we encourage socializing, *open discussion on any and all subjects is not the mission of this organization.* As such, please avoid potentially controversial subjects.
+
+We have seen the following topics distract from the mission of Operation Code, the success of our members, and the culture of the community. You may be asked to discontinue these conversations by other community members or a moderator. Moderators are authorized to take action to discontinue these conversations (see 'Our Responsibilities', below)
+
+* Race
+* Religion
+* Politics
+* Mental illness
+* Socioeconomic status or background
+* Neuro(a)typicality
+* Physical appearance
+
 ## Our Responsibilities
 
-Staff is responsible for clarifying the standards of acceptable
+Moderators are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
-Our staff has the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
+Our moderators have the right and responsibility to remove, edit, or
+reject comments, threads, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
+permanently any member or contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
 ## Scope
