@@ -131,18 +131,6 @@ Informed</td>
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 
@@ -231,5 +219,3 @@ LinkedIn recommendation</td>
     <td>Letter from ED also</td>
   </tr>
 </table>
-
-
