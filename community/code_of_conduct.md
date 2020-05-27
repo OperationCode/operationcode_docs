@@ -6,7 +6,7 @@ We strive to create a welcoming and inclusive culture that empowers people to pr
 
 ## Our standards
 
-It would be impossible to list everything staff can do to create a more welcoming space, and we know this team will find ways to include their colleagues that we haven't even thought of. But when in doubt, we encourage you to look to these principles for guidance:
+It would be impossible to list everything our team can do to create a more welcoming space - but when in doubt, we encourage you to look to these principles for guidance:
 
 * Practice empathy and humility.
 * Assume competence first.
@@ -23,11 +23,10 @@ It would be impossible to list everything staff can do to create a more welcomin
 
 ## Unacceptable behavior
 
-To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we've listed below actions that are counter to our values.  We've also included steps to take if you encounter behavior that runs contrary to this policy.
+To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we've listed the below actions. If you encounter behavior that runs contrary to this policy, please use the `/report` command in Slack, or contact moderators@operationcode.org.
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks.
-> Keep in mind that this is a forum with the goal of first and foremost providing help to people trying to enter the software development industry. While we encourage socializing, *open discussion on any subject is not the goal.* As such consider avoiding potentially controversial subjects like politics or religion. Be aware that you might be asked to stop conversations on these topics.
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
@@ -40,35 +39,39 @@ To help colleagues understand the kinds of behaviors that are illegal or run cou
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+### Examples of topics outside mission scope
+
+Keep in mind that this is a community with the goal of first and foremost providing help to members of the military community trying to enter the software development industry. While we encourage socializing, *open discussion on any and all subjects is not the mission of this organization.* As such, avoid potentially controversial subjects, as our community is diverse - you are in mixed company.
+
+We have seen the following topics distract from the mission of Operation Code, the success of our members, and the culture of the community. You may be asked to discontinue these conversations by other community members or a moderator. Moderators are authorized to take action to discontinue these conversations (see 'Our Responsibilities', below)
+
+* Race
+* Religion
+* Politics
+* Socioeconomic status or background
+* Neuro(a)typicality
+* Physical appearance
+
 ## Our Responsibilities
 
-Staff is responsible for clarifying the standards of acceptable
+Moderators are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
-Our staff has the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
+Our moderators have the right and responsibility to remove, edit, or
+reject comments, threads, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
+permanently any member or contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
-
-## Scope
-
-This Code of Conduct applies both within online spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of Operation Code may be
-further defined and clarified by staff.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at <staff@operationcode.org>. All
+reported by contacting the team at <moderators@operationcode.org>. All
 complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
+is deemed necessary and appropriate to the circumstances. The team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Further details of specific enforcement policies may be posted separately
 
 Volunteers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
