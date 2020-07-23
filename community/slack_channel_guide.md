@@ -21,6 +21,7 @@ Want to add/change something? Give a PR.
 | #blockchain | Talk about blockchain technology (but not crypto trading) |
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #coding-interviews | Get help on algorithims and coding problems for job interviews or fun |
+| #cooking  | Recipes, cooking techniques, general food chat |
 | #colleges | Selecting a college, major/field of study, courses and electives, career specific programs, funding/financial aid options, tuition assistance/reimbursement programs |
 | #compensation | Have questions about your offer? Share them here. |
 | #computer-science | CS specific questions and discussions. |
@@ -38,6 +39,7 @@ Want to add/change something? Give a PR.
 | #git | git questions can go here |
 | #help | Ask us anything (probably about tech, but maybe not? I don't know!) Yes, even if you're new to all this, so are lots of people. |
 | #ios | iOS related development |
+| ##infrastructure-team | Discuss infrastructure-team related topic here!|
 | #job_board | Post job opportunities, discuss job opportunity specifics |
 | #job-hunting | A place for people to let others know members are actively looking for a job. |
 | #linux | Discussing the care and feeding of GNU/Linux based operating systems. |
@@ -45,6 +47,7 @@ Want to add/change something? Give a PR.
 | #mobile-dev | Ask you questions about mobile development here! |
 | #netdev | We discuss anything related to the TCP/IP stack and OSI model layers, Software Defined Networking, Network Functions Virtualization, and everything in between. |
 | #object-oriented-basic | You can ask core OO questions here |
+| #oc-projects | Where we discuss bugs, features and enhancements to our Operation Code projects |
 | #oc-python-projects | Channel is for the rewrite effort for slack bot for new team members. |
 | #parenting | The purpose of this channel is to discuss all things parenting. |
 | #random | Whatever you crazy kids want. Just no politics or religion or you'll be tsk'ed at |
@@ -52,6 +55,7 @@ Want to add/change something? Give a PR.
 | #raspberrypi | Talk about your Raspberry Pi projects! |
 | #salesforce | Learn about SalesForce and SalesForce development |
 | #townhall | Chat about the weekly town hall meeting |
+| #uxui | Discuss UX/UI topics here |
 | #va-claims | A place to discuss anything to do with Veterans Affairs and related compensation cases |
 | #vim | vim? Sure! |
 | #web-dev | More broad discussions of web development, as well as html and css |
@@ -65,17 +69,25 @@ For specific languages, libraries, or frameworks.
 | Channel | Description |
 | -------------- | -------------- |
 | #angular | Talk about Angular, AngularJs and all that components stuff |
+| #assembly | A place to discuss where the code gets converted to ones and zeroes |
+| #bash | Bash Scripting |
 | #c | C related development |
 | #cpp | C++ related development |
 | #dotnet | Talk about .net development |
+| #drupal | Discussions about Drupal themes, coding & hosting |
+| #flutter | Google's mobile UI framework |
 | #golang | GoLang related development |
 | #java | Java and JVM talk |
 | #javascript | Talk about Javascript. Hardcore javascript or not |
+| #language-wars | Or argue about which is better here |
+| #linux | Discussing the care and feeding of GNU/Linux based operating systems
 | #php | PHP related development |
 | #python | Python related development |
 | #reactJS | Cause #angular is a thing |
 | #ruby | All of the Rubies! |
-| #language-wars | Or argue about which is better here |
+| #rust-lang | Rust-lang related development
+| #wordPress | Everything WordPress related
+
 
 [Back to Table of Contents](#Table-Of-Contents)
 
