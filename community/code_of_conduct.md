@@ -21,6 +21,12 @@ It would be impossible to list everything our team can do to create a more welco
 * Focusing on what is best for the community.
 * Showing empathy towards other community members.
 
+## Hateful Content and Harassement
+
+Operation Code is a place for people to connect and discuss issues related to getting the military community into rewarding technology careers. While we want people to be able to express themselves and their views, Operation Code will always ensure that conversations within our community remain productive, friendly, and empathetic. This means protecting our most vulnerable community members from hateful and harassing content by aggressively moderating such behavior. 
+Operation Code has a zero tolerance policy as it relates to posting material that is hateful, disparaging, threatening, discriminatory, objectifying, or harassing in any way. Harassment is defined by any content that is meant to bully, demean, intimidate, abuse, or degrade others and is strictly prohibited. 
+Moderators will take swift and decisive action including and up to permanently removing a community member from our slack community and any other Operation Code activities. This removal will be considered permanent and is not subject to review. 
+
 ## Unacceptable behavior
 
 To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we've listed the below actions. If you encounter behavior that runs contrary to this policy, please use the `/report` command in Slack, or contact moderators@operationcode.org.
@@ -51,6 +57,12 @@ We have seen the following topics distract from the mission of Operation Code, t
 * Socioeconomic status or background
 * Neuro(a)typicality
 * Physical appearance
+
+## Political Discussions
+
+Operation Code has a tremendous amount of value for many people seeking help to get into a rewarding career in the technology field. It is certainly not the place they come to engage in political discourse. As a result, Operation Code strongly discourages the community from engaging in discussions related to common political issues. This means discussing a certain political party, political candidate, or laws that do not impact the technology industry as a whole. 
+Moderators will allow some political discussions to occur when the conversation has a direct impact on technology related careers and other related issues that can have implications for our community. Where multiple viewpoints are present, we will always aim to provide aid to our members, and will not tolerate discussion that detracts from that focus.
+These conversations will be allowed as long as they do not violate the guidelines we have outlined throughout the Code of Conduct.
 
 ## Our Responsibilities
 
