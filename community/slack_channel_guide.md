@@ -21,7 +21,6 @@ Want to add/change something? Give a PR.
 | #blockchain | Talk about blockchain technology (but not crypto trading) |
 | #career_advice | Ask for a resume review, career advice, questions about job offers |
 | #coding-interviews | Get help on algorithims and coding problems for job interviews or fun |
-| #cooking  | Recipes, cooking techniques, general food chat |
 | #colleges | Selecting a college, major/field of study, courses and electives, career specific programs, funding/financial aid options, tuition assistance/reimbursement programs |
 | #compensation | Have questions about your offer? Share them here. |
 | #computer-science | CS specific questions and discussions. |
@@ -81,6 +80,7 @@ For specific languages, libraries, or frameworks.
 | #javascript | Talk about Javascript. Hardcore javascript or not |
 | #language-wars | Or argue about which is better here |
 | #linux | Discussing the care and feeding of GNU/Linux based operating systems
+| #powershell | Powershell specific questions or resources |
 | #php | PHP related development |
 | #python | Python related development |
 | #reactJS | Cause #angular is a thing |
@@ -113,3 +113,21 @@ For specific languages, libraries, or frameworks.
 | #indiana | #orlando |  |
 
 [Back to Table of Contents](#Table-Of-Contents)
+
+### Life Hacks
+
+For specific languages, libraries, or frameworks.
+
+| Channel | Description |
+| -------------- | -------------- |
+| #cooking  | Recipes, cooking techniques, general food chat |
+| #designing-your-life-the-book | For discussing the book "Designing Your Life", and tools such as career prototyping, odyssey planning, life design interviews, and informational interviews |
+| #homeimprovement | The purpose of this channel is to discuss all things parenting |
+| #mental-health | channel purpose: a safe place. no judgments. to talk and learn about wellness, depression, suicide, loss in relationship/job/life/etc. |
+| #music | The purpose of this channel is to explore music through coding |
+| #outdoors | Camping, Hiking and Any Outdoor Activities |
+| #parenting | The purpose of this channel is to discuss all things parenting. |
+| #wellness | Talk about health topics, and for motivation & support |
+
+
+
