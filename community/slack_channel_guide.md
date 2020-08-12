@@ -38,7 +38,7 @@ Want to add/change something? Give a PR.
 | #git | git questions can go here |
 | #help | Ask us anything (probably about tech, but maybe not? I don't know!) Yes, even if you're new to all this, so are lots of people. |
 | #ios | iOS related development |
-| ##infrastructure-team | Discuss infrastructure-team related topic here!|
+| #infrastructure-team | Discuss infrastructure-team related topic here!|
 | #job_board | Post job opportunities, discuss job opportunity specifics |
 | #job-hunting | A place for people to let others know members are actively looking for a job. |
 | #linux | Discussing the care and feeding of GNU/Linux based operating systems. |
