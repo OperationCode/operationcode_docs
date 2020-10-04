@@ -99,6 +99,8 @@ In the cases of severe violations of the Code of Conduct (including but not limi
 
 This process applies to all Operation Code members, staff, partners, community, and anyone else who interacts with the Operation Code organization.
 
+Impersonating an Operation Code Moderator or Staff member, or any identity that is not authentically your own is prohibited and will result in an automatic ban.
+
 ### Creating Additional Accounts ("Sockpuppeting")
 
 Attempting to get around a temporary or permanent ban by creating a new account in the Operation Code Slack will result in an immediate permanent ban.
