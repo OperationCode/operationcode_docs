@@ -99,7 +99,7 @@ In the cases of severe violations of the Code of Conduct (including but not limi
 
 This process applies to all Operation Code members, staff, partners, community, and anyone else who interacts with the Operation Code organization.
 
-Impersonating an Operation Code Moderator or Staff member, or any identity that is not authentically your own is prohibited and will result in an automatic ban.
+*Impersonating an Operation Code Moderator, staff member, or any identity that is not authentically your own is prohibited and will result in an automatic ban.*
 
 ### Creating Additional Accounts ("Sockpuppeting")
 
