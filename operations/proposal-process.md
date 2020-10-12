@@ -1,7 +1,6 @@
-# OperationCode Board
+# Operation Code Board
 
-Operation Code is on a mission to help every military, veteran and military
-family member get coding and contribute to improving the world through open source software.
+Operation Code is on a mission to help the military learn software development, enter the tech industry, and code the future.
 As an open-source organization, we will open up board discussions for input from our community.
 
 ### Process
@@ -22,7 +21,7 @@ A formal proposal can be constructed using the [template](../proposal-template.m
 
 ### Accepted Proposals
 
-TDB
+TBD
 
 ### Out of Scope
 
