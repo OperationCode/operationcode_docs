@@ -15,7 +15,7 @@ by the board and voted upon.
 A formal proposal can be constructed using the [template](../proposal-template.md). The proposal should answer the following questions:
 
 * What is your evaluation (Pros/Cons) of the proposal?
-* How does it impact veterans?
+* How does it impact our community of veterans, military spouses, transitioning servicemembers, and civilian allies?
 * Is the problem being addressed significant enough to warrant a change to Operation Code?
 * Does this proposal fit well with the feel and direction of Operation Code?
 
