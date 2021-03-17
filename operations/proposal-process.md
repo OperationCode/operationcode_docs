@@ -1,7 +1,6 @@
-# OperationCode Board
+# Operation Code Board
 
-Operation Code is on a mission to help every military, veteran and military
-family member get coding and contribute to improving the world through open source software.
+Operation Code is on a mission to help the military learn software development, enter the tech industry, and code the future.
 As an open-source organization, we will open up board discussions for input from our community.
 
 ### Process
@@ -16,13 +15,13 @@ by the board and voted upon.
 A formal proposal can be constructed using the [template](../proposal-template.md). The proposal should answer the following questions:
 
 * What is your evaluation (Pros/Cons) of the proposal?
-* How does it impact veterans?
+* How does it impact our community of veterans, military spouses, transitioning servicemembers, and civilian allies?
 * Is the problem being addressed significant enough to warrant a change to Operation Code?
 * Does this proposal fit well with the feel and direction of Operation Code?
 
 ### Accepted Proposals
 
-TDB
+TBD
 
 ### Out of Scope
 
