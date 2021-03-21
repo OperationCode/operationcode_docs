@@ -2,6 +2,12 @@
 
 Thanks for joining the Operation Code Outreach Team!
 
+## Goals and Objectives
+
+- Serve as the new members' initial point of contact within the Operation Code community.
+- Ensure new members are aware of the resources and channels that Operation Code has available.
+- Assist in connecting members to people and resources as needed for each individual.
+
 ## Tools and Communication
 
 At this time, the Outreach team primarily utilizes Slack for communication - specifically the `#greetings` and `#outreach` channels. If you are not in these channels, please reach out to someone on the team or in Operation Code leadership to ensure you are added. The `#outreach` channel is where most information is shared, and it's the best place to voice any issues and concerns or ask any questions that might come up!

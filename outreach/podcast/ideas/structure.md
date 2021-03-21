@@ -1,6 +1,19 @@
 # OpCode Podcast Structure Ideas*
 *Progress over Perfection
 
+## "10 Word Desciption" Brainstorm
+```
+o Personal stories from the military community on their transition into careers in technology. 
+
+o Sharing personal, tech-focused careers journeys from the military community
+
+o  Personal stories, Hightlights, and successes of transitioning to careers in technology with the military community
+
+o Conversations with our military community about transitiong to careers in technology.
+```
+- Reference: https://www.buzzsprout.com/blog/ten-word-description
+- Reference: https://www.thirdcoastfestival.org/feature/only-ten-words-that-matter
+
 ## Overview of Show:
 
 1. Message by David Molina
